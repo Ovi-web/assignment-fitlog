@@ -1,36 +1,32 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# FitLog 🏋️‍♂️
 
-## Getting Started
+A dark theme gym web application built for fitness track, structure daily training plans, and track their workouts with precision.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🚀 Technologies Used
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+* **Next.js (App Router):** For server-side rendering, dynamic routing, and high-performance page navigation.
+* **Tailwind CSS:** For styling, custom utility classes, and fully responsive layouts across mobile, tablet, and desktop screens.
+* **React:** For managing component state, custom hooks, and interactive UI elements.
+* **React Toastify:** For providing real-time visual feedback notifications upon user actions.
+* **LocalStorage API:** For seamless state persistence across page reloads.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## ✨ 5 Key Features
 
-## Learn More
+1. **Comprehensive Workout Library**  
+   Browse a responsive grid of exercises complete with equipment info, duration, calories, and ratings.
 
-To learn more about Next.js, take a look at the following resources:
+2. **Today's Plan & 5-Lift Cap System**  
+   Smart Daily Planner, Curate up to 5 exercises into a daily plan and track live totals for time, exercises, and calories burned.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+3. **Persistent Local Storage**  
+   Automatically saves your daily plan and saved workouts so your progress is never lost on refresh.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+4. **Interactive Dashboard & Completion Tracking**  
+   Manage your workouts with custom sorting, completion toggles, and organized tabs.
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+5. **Dynamic Details & Instant Feedback**  
+   Detailed Workout Views : View instructions and exercise specs with instant toast notifications for every action.
