@@ -1,4 +1,4 @@
-
+// src/components/Icons.jsx
 
 export function DumbbellIcon({ className = "w-4 h-4" }) {
   return (

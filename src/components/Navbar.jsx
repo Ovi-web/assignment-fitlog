@@ -20,7 +20,7 @@ export default function Navbar() {
     <header className="sticky top-0 z-50 bg-[#0d0f12]/95 backdrop-blur-md border-b border-neutral-800">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between">
         
-        
+        {/* Left: Brand Logo & Mobile Hamburger */}
         <div className="flex items-center gap-3">
           <button
             onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
@@ -58,7 +58,7 @@ export default function Navbar() {
           </Link>
         </div>
 
-        
+        {/* Center: Desktop Navigation Links (Pill Style Matching Screenshot) */}
         <nav className="hidden md:flex items-center gap-2 text-sm font-medium">
           <Link
             href="/"
@@ -107,7 +107,7 @@ export default function Navbar() {
 
       </div>
 
-   
+      {/* Mobile Dropdown Menu (Also matching pill active design) */}
       {mobileMenuOpen && (
         <div className="md:hidden absolute top-16 left-4 right-4 sm:right-auto sm:w-56 rounded-2xl bg-[#12151b] border border-neutral-800 shadow-2xl py-3 px-2 flex flex-col space-y-1.5 z-50">
           <Link
