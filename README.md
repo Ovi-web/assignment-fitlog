@@ -1,7 +1,7 @@
 # FitLog 🏋️‍♂️
 
 A dark theme gym web application built for fitness track, structure daily training plans, and track their workouts with precision.
-
+Live Link: https://assignment-fitlog-omega.vercel.app/
 ---
 
 ## 🚀 Technologies Used
