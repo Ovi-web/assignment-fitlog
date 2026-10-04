@@ -30,6 +30,31 @@ A dark theme gym web application built for fitness track, structure daily traini
 
 5. **Dynamic Details & Instant Feedback**  
    Detailed Workout Views : View instructions and exercise specs with instant toast notifications for every action.
-
-   ## ✨ Project Overview
+ ## ✨ Project Overview
    ![Website Screenshot](https://github.com/Ovi-web/assignment-fitlog/blob/main/src/assets/screencapture-assignment-fitlog-omega-vercel-app-2026-10-05-00_44_42.png)
+## 💻 Getting Started Locally
+
+To run this project on your local machine, follow these steps:
+
+### First Clone the Repository
+```bash
+git clone [https://github.com/Ovi-web/assignment-fitlog.git](https://github.com/Ovi-web/assignment-fitlog.git)
+cd assignment-fitlog
+### 2. Install Dependencies
+Make sure you have Node.js installed, then run:
+npm install
+# or
+yarn install
+# or
+pnpm install
+### 3. Run the Development Server
+Start the local development server:
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+### 4. Open in Browser
+Open http://localhost:3000 with your browser to see the application running.
+
+
