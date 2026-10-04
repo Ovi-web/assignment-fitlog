@@ -1,3 +1,6 @@
+ ## ✨ Project Overview
+   ![Website Screenshot](https://github.com/Ovi-web/assignment-fitlog/blob/main/src/assets/screencapture-assignment-fitlog-omega-vercel-app-2026-10-05-00_44_42.png)
+
 # FitLog 🏋️‍♂️
 
 A dark theme gym web application built for fitness track, structure daily training plans, and track their workouts with precision.
@@ -30,8 +33,7 @@ A dark theme gym web application built for fitness track, structure daily traini
 
 5. **Dynamic Details & Instant Feedback**  
    Detailed Workout Views : View instructions and exercise specs with instant toast notifications for every action.
- ## ✨ Project Overview
-   ![Website Screenshot](https://github.com/Ovi-web/assignment-fitlog/blob/main/src/assets/screencapture-assignment-fitlog-omega-vercel-app-2026-10-05-00_44_42.png)
+
 ## 💻 Getting Started Locally
 
 To run this project on your local machine, follow these steps:
